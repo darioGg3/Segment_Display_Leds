@@ -1,9 +1,9 @@
-# Ethernet_Shield_W5500
+# Segment_Display_Leds
 
-PCB SPI - Ethernet Shield basado en el integrado W5500 de Wiznet.
+PCB Display de 7 segmentos y 4 digitos hecho con LEDs SMD.
 
 <p align="center">
-  <img width="448" height="336" src="https://github.com/darioGg3/Ethernet_Shield_W5500/blob/main/imgs/Front.png">
+  <img width="448" height="336" src="https://github.com/darioGg3/Segment_Display_Leds/blob/main/imgs/Front.PNG">
   
-  <img width="448" height="336" src="https://github.com/darioGg3/Ethernet_Shield_W5500/blob/main/imgs/Back.png">
+  <img width="448" height="336" src="https://github.com/darioGg3/Segment_Display_Leds/blob/main/imgs/Back.PNG">
 </p>
